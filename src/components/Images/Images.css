@@ -1,0 +1,79 @@
+.img-cont {
+    width: 1580px;
+    height: 1052px;
+}
+
+.imgfig-cont {
+    margin-bottom: 187px;
+}
+
+.imgCap-cont {
+    background: #FFFFFF;
+    /* POOLSIDE BAR */
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+    text-align: center;
+    color: #14274A;
+}
+
+.img3 {
+    margin-left: 157px;
+    border-radius: 15px;
+    width: 1603px;
+    border: 3px solid #14274A;
+}
+
+.img2-cont {
+    width: 1602px;
+    height: 926px;
+}
+
+.imgCap2-cont {
+    background: #14274A;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.img2-d {
+    height: 205px;
+    margin-left: 162px;
+    margin-right: 160px;
+    width: 80%;
+    justify-content: space-between;
+    display: inline-flex;
+}
+
+.room-d {
+    display: inline-flex;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    color: #14274A;
+    vertical-align: top;
+    padding-top: 15px;
+}
+
+.detail {
+    margin-top: 6%;
+    height: 50%;
+}
+
+.pluss {
+    margin-right: 27px;
+    font-size: 51px;
+    color: #E0B973;
+    width: 75px;
+    height: 57px;
+    background: #ffffff;
+}

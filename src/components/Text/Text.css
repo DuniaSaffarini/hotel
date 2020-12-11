@@ -1,0 +1,27 @@
+.title1 {
+    /* FACILITIES */
+    height: 72px;
+    font-family: Adobe Garamond Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 72px;
+    /* identical to box height */
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #14274A;
+}
+
+.desc1 {
+    margin-top: 17px;
+    margin-left: 251px;
+    width: 73%;
+    height: 110px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 30px;
+    text-align: center;
+    color: #14274A;
+}

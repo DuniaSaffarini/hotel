@@ -1,0 +1,119 @@
+.contact-us {
+    margin-top: 65px;
+
+    height: 98px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 98px;
+    
+    color: #FFFFFF;
+}
+
+.contact-title {
+    width: 712px;
+    height: 72px;
+    font-family: Adobe Garamond Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 72px;
+    color: #14274A;
+}
+
+.contact-des {
+    text-align: left;
+    width: 1509px;
+    height: 74px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 37px;
+    color: #14274A;
+}
+
+.ad1 {
+    text-align: left;
+    width: 1509px;
+    height: 74px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 37px;
+    color: #14274A;
+}
+
+.ad2 {
+    text-align: left;
+    margin-bottom: 81px;
+    width: 214px;
+    height: 53px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 49px;
+    color: #14274A;
+    margin-top: 40px;
+}
+
+.ad3 {
+    text-align: left;
+    width: 653px;
+    height: 108px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 49px;
+    color: #14274A;
+}
+
+/* Group 79 */
+
+form {
+    text-align: left;
+    width: 570px;
+    height: 809px;
+}
+
+/* Name */
+
+label {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    color: #14274A;
+}
+
+input {
+    margin-bottom: 35px;
+    width: 570px;
+    background: #FFFFFF;
+    border: 2px solid rgba(20, 39, 74, 0.5);
+    box-sizing: border-box;
+    height: 78px;
+}
+
+.submit {
+    color: white;
+    border-color: white;
+    background: rgb(224, 185, 115);
+    border-radius: 1px;
+    
+    width: 145px;
+    float: right;
+   
+  
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+}

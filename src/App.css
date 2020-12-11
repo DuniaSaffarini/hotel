@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+.background-dim {
+  height: 1920px;
+  width: 100%;
+  background-image: url('/src/img/img1.jpg');
+  background-repeat: no-repeat;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -14,14 +21,42 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+header {
+  width: 100%;
+}
+
+.app-cont {
+  background-size: 2028px 1135px;
+  height: 1139px;
+  width: 100%;
+  background-image: url('/src/img/img1.jpg');
+  background-repeat: no-repeat;
+}
+.app-cont2 {
+  background-size: 2028px 1135px;
+  height: 1139px;
+  width: 100%;
+  background-image: url('/src/img/img2.png');
+  background-repeat: no-repeat;
+}
+.app-cont3 {
+  background-size: 2028px 1135px;
+  height: 1139px;
+  width: 100%;
+  background-image: url('/src/img/img3.png');
+  background-repeat: no-repeat;
+}
+.app-cont4 {
+  background-size: 2028px 1135px;
+  height: 465px;
+  width: 100%;
+  background-image: url('/src/img/r.png');
+  background-repeat: no-repeat;
 }
 
 .App-link {
@@ -35,4 +70,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+a {
+  margin-left: 5%;
+  margin-right: 5%;
 }

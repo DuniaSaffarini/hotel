@@ -1,0 +1,49 @@
+.word-title {
+    font-family: Adobe Garamond Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 72px;
+    color: #14274A;
+}
+
+.words {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 37px;
+    color: #14274A;
+}
+
+.copy-right {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    color: #14274A;
+}
+
+.left-arrow {
+    background: #E0B973;
+    font-size: 27px;
+    display: inline-block;
+    height: 2%;
+    color: white;
+    width: 2%;
+    border-radius: 8px;
+    margin-right: 23px;
+    padding-top: 4px;
+}
+
+.right-arrow {
+    border-radius: 8px;
+    display: inline-block;
+    height: 2%;
+    color: white;
+    width: 2%;
+    font-size: 27px;
+    background: #E0B973;
+    padding-top: 4px;
+}

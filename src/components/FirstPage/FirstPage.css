@@ -1,0 +1,21 @@
+.text-dim {
+    text-align: left;
+    padding-left: 214px;
+    margin-top: 195px;
+    color: white;
+}
+
+.scrollBottom {
+    bottom: 20px;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    cursor: pointer;
+    animation: fadeIn 0.3s;
+    transition: opacity 0.4s;
+    opacity: 0.5;
+}
+
+.scrollBottom:hover {
+    opacity: 1;
+}

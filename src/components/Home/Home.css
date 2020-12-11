@@ -1,0 +1,29 @@
+.txt {
+    margin-left: 153px;
+    height: 576px;
+    width: 80%;
+}
+
+.img1 {
+    margin-top: 90px;
+}
+
+.img2 {
+    margin-top: 70px;
+}
+
+.img-des {
+    text-align: left;
+    font-size: 24px;
+    height: 160px;
+    color: #14274a;
+}
+
+.img-title {
+    font-family: fangsong;
+    text-align: left;
+    font-size: 40px;
+    color: #14274a;
+    margin-top: 0px;
+}
+
