@@ -8,8 +8,12 @@
 }
 
 .imgCap-cont {
+    height: 174px;
+    margin-left: 26%;
+    width: 50%;
+    position: relative;
+    top: -178px;
     background: #FFFFFF;
-    /* POOLSIDE BAR */
     font-family: Montserrat;
     font-style: normal;
     font-weight: bold;
