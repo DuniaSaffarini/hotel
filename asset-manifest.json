@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/DuniaSaffarini/hotel.git/static/css/main.7d90649d.chunk.css",
-    "main.js": "/DuniaSaffarini/hotel.git/static/js/main.13db2520.chunk.js",
-    "main.js.map": "/DuniaSaffarini/hotel.git/static/js/main.13db2520.chunk.js.map",
-    "runtime-main.js": "/DuniaSaffarini/hotel.git/static/js/runtime-main.f872133d.js",
-    "runtime-main.js.map": "/DuniaSaffarini/hotel.git/static/js/runtime-main.f872133d.js.map",
-    "static/js/2.fae94f99.chunk.js": "/DuniaSaffarini/hotel.git/static/js/2.fae94f99.chunk.js",
-    "static/js/2.fae94f99.chunk.js.map": "/DuniaSaffarini/hotel.git/static/js/2.fae94f99.chunk.js.map",
-    "static/js/3.05b6acc7.chunk.js": "/DuniaSaffarini/hotel.git/static/js/3.05b6acc7.chunk.js",
-    "static/js/3.05b6acc7.chunk.js.map": "/DuniaSaffarini/hotel.git/static/js/3.05b6acc7.chunk.js.map",
-    "index.html": "/DuniaSaffarini/hotel.git/index.html",
-    "static/css/main.7d90649d.chunk.css.map": "/DuniaSaffarini/hotel.git/static/css/main.7d90649d.chunk.css.map",
-    "static/js/2.fae94f99.chunk.js.LICENSE.txt": "/DuniaSaffarini/hotel.git/static/js/2.fae94f99.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/DuniaSaffarini/hotel.git/static/media/img3.dea17dbe.png",
-    "static/media/img4.fcf84253.png": "/DuniaSaffarini/hotel.git/static/media/img4.fcf84253.png"
+    "main.css": "/hotel/static/css/main.b896a2fd.chunk.css",
+    "main.js": "/hotel/static/js/main.13db2520.chunk.js",
+    "main.js.map": "/hotel/static/js/main.13db2520.chunk.js.map",
+    "runtime-main.js": "/hotel/static/js/runtime-main.7b051888.js",
+    "runtime-main.js.map": "/hotel/static/js/runtime-main.7b051888.js.map",
+    "static/js/2.fae94f99.chunk.js": "/hotel/static/js/2.fae94f99.chunk.js",
+    "static/js/2.fae94f99.chunk.js.map": "/hotel/static/js/2.fae94f99.chunk.js.map",
+    "static/js/3.05b6acc7.chunk.js": "/hotel/static/js/3.05b6acc7.chunk.js",
+    "static/js/3.05b6acc7.chunk.js.map": "/hotel/static/js/3.05b6acc7.chunk.js.map",
+    "index.html": "/hotel/index.html",
+    "static/css/main.b896a2fd.chunk.css.map": "/hotel/static/css/main.b896a2fd.chunk.css.map",
+    "static/js/2.fae94f99.chunk.js.LICENSE.txt": "/hotel/static/js/2.fae94f99.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/hotel/static/media/img3.dea17dbe.png",
+    "static/media/img4.fcf84253.png": "/hotel/static/media/img4.fcf84253.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f872133d.js",
+    "static/js/runtime-main.7b051888.js",
     "static/js/2.fae94f99.chunk.js",
-    "static/css/main.7d90649d.chunk.css",
+    "static/css/main.b896a2fd.chunk.css",
     "static/js/main.13db2520.chunk.js"
   ]
 }
