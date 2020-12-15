@@ -94,7 +94,6 @@ function Images(props) {
         `https://api.unsplash.com/photos/random/?count=${count}&query=${query}&client_id=rrFO8buP5ewE16RTzo_YGNnzfTtVUMKOhRSHxYwy-Z8`
       )
       .then((response) => {
-        console.log(response.data);
         dispatch({ type: "OnSuccess", payload: response.data });
       })
       .catch((error) => {
@@ -104,7 +103,6 @@ function Images(props) {
 
   return (
     <div>
-      {" "}
       {state.loading
         ? "Loading!! Please wait"
         : state.image.map((img) =>

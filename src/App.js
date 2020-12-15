@@ -32,7 +32,7 @@ function App() {
         </div>
         <div>
           {pathname === "/Contact" ? " " : <FirstPage />}
-          <BrowserRouter>
+          <BrowserRouter basename="/hotel">
             <Switch>
               <Route exact path="/Home">
                 {" "}
