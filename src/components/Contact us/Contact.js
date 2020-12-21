@@ -26,10 +26,10 @@ export default function Contact() {
                   verticalAlign: "super",
                 }}
               >
-                View map{" "}
+                View map
               </b>
               <b>
-                <RightArrow />{" "}
+                <RightArrow />
               </b>
             </div>
             <div className="ad3">

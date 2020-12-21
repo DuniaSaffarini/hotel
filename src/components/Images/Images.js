@@ -105,7 +105,8 @@ function Images(props) {
     <div>
       {state.loading
         ? "Loading!! Please wait"
-        : state.image.map((img) =>
+        : !state.error &&
+          state.image.map((img) =>
             query === "hotel" ? (
               <Fas img={img} key={img.id} />
             ) : (

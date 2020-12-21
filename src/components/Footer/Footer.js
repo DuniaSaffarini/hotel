@@ -30,33 +30,27 @@ export default function Footer() {
                 <td>
                   <div className="sec">
                     <p style={{ paddingTop: "28px" }}> About Us</p>
-                    <p style={{ margin: "40px 0px 40px 0px" }}>
-                      {" "}
-                      Contact Terms
-                    </p>
+                    <p style={{ margin: "40px 0px 40px 0px" }}>Contact Terms</p>
                     <p> Conditions</p>
                   </div>
                 </td>
                 <td>
                   <div className="sec">
                     <p style={{ paddingTop: "28px" }}>
-                      {" "}
                       <span style={{ paddingRight: "27px" }}>
                         <Facebook />
                       </span>
                       Facebook
                     </p>
                     <p style={{ margin: "40px 0px 40px 0px" }}>
-                      {" "}
                       <span style={{ paddingRight: "27px" }}>
                         <Twitter />
-                      </span>{" "}
+                      </span>
                       Twitter
                     </p>
                     <p>
-                      {" "}
                       <span style={{ paddingRight: "27px" }}>
-                        <Instagram />{" "}
+                        <Instagram />
                       </span>
                       Instagram
                     </p>
