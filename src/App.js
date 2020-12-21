@@ -17,25 +17,19 @@ function App() {
   const history = useHistory();
   useEffect(() => {
     history.listen((location) => {
-      console.log(`You changed the page to: ${location.pathname}`);
       setImage(location.pathname);
       if (location.pathname === "/Home") {
-        console.log(`You changed the page to:home`);
         setStyleBackGround("app-cont");
       } else if (location.pathname === "/Facilities") {
-        console.log(`You changed the page to:face`);
         setStyleBackGround("app-cont2");
       } else if (location.pathname === "/Rooms") {
-        console.log(`You changed the page to:room`);
         setStyleBackGround("app-cont3");
       } else {
-        console.log(`You changed the page to:else`);
         // eslint-disable-next-line no-unused-vars
         setStyleBackGround("app-cont4");
       }
     });
     return () => {
-      console.log("cleaned up");
     };
   }, [history, im, styleBackGround]);
 
